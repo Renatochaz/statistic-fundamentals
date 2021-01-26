@@ -2,7 +2,7 @@
 
 This repository contains notes, explanations and exercises resolutions for the most fundamental topics in statistics. My aim here is to help those who want to get started in a data science career and are somewhat lost in how to build a statistical base, or those who just want to re enforce their studies. 
 
-The content here is a summary of the most important topics of the following books:
+The content here is a brief explanation of the most important topics of the following books:
 
  **Estatística Básica - Pedro A. Morettin, Wilton de O. Bussab. 2004**. 
 
@@ -14,8 +14,11 @@ I hope this repository help you understand the most essential statistics topics,
 
 **Parte 1 - Análise Exploratória de Dados**
 
-- Tipos de variáveis e medidas resumo.
-  - Variáveis qualitativas e quantitativas;
+- Tipos de variáveis.
+  - Qualitativas;
+  - Quantitativas.
+
+- Medidas-Resumo.
   - Medidas de posição;
   - Medidas de dispersão;
   - Quantis;
