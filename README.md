@@ -14,7 +14,7 @@ I hope this repository help you understand the most essential statistics topics,
 
 **Parte 1 - Análise Exploratória de Dados**
 
-- [Tipos de variáveis e medidas resumo](https://github.com/Renatochaz/statistic-fundamentals).
+- [Tipos de variáveis e medidas resumo](https://github.com/Renatochaz/statistic-fundamentals/blob/master/P1-variavies-medidas.ipynb).
   - Variáveis qualitativas e quantitativas;
   - Medidas de posição;
   - Medidas de dispersão;
