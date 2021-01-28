@@ -21,7 +21,13 @@ I hope this repository help you understand the most essential statistics topics,
   - Quantis;
   - Box-plot;
   - Transformações básicas;
-- ....
+- Análise bidimensional
+  - Importância
+  - Bidimensional quantitativa
+  - Bidimensional qualitativa
+  - Associação quantitativa e qualitativa
+  - Gráfico qxq
+  - Problemas de estudo
 
 
 
