@@ -23,11 +23,11 @@ I hope this repository help you understand the most essential statistics topics,
   - Transformações básicas;
 - Análise bidimensional
   - Importância
-  - Bidimensional quantitativa
-  - Bidimensional qualitativa
-  - Associação quantitativa e qualitativa
-  - Gráfico qxq
-  - Problemas de estudo
+  - Análise de interação de variáveis qualitativas
+  - Medidas de associação de variáveis qualitativas
+  - Análise de interação de variáveis quantitativas
+  - Medidas de associação de variáveis quantitativas
+  - ...
 
 
 
