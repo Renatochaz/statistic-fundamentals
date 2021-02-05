@@ -1,0 +1,37 @@
+Estado Civil,Grau de Instrução,N de Filhos,Salario (x Sal Min),Anos,Meses,Região de Procedência
+solteiro,ensino fundamental,,"4,00",26,3,interior
+casado,ensino fundamental,1,"4,56",32,10,capital
+casado,ensino fundamental,2,"5,25",36,5,capital
+solteiro,ensino médio,,"5,73",20,10,outra
+solteiro,ensino fundamental,,"6,26",40,7,outra
+casado,ensino fundamental,0,"6,66",28,0,interior
+solteiro,ensino fundamental,,"6,86",41,0,interior
+solteiro,ensino fundamental,,"7,39",43,4,capital
+casado,ensino médio,1,"7,59",34,10,capital
+solteiro,ensino médio,,"7,44",23,6,outra
+casado,ensino médio,2,"8,12",33,6,interior
+solteiro,ensino fundamental,,"8,46",27,11,capital
+solteiro,ensino médio,,"8,74",37,5,outra
+casado,ensino fundamental,3,"8,95",44,2,outra
+casado,ensino médio,0,"9,13",30,5,interior
+solteiro,ensino médio,,"9,35",38,8,outra
+casado,ensino médio,1,"9,77",31,7,capital
+casado,ensino fundamental,2,"9,80",39,7,outra
+solteiro,superior,,"10,53",25,8,interior
+solteiro,ensino médio,,"10,76",37,4,interior
+casado,ensino médio,1,"11,06",30,9,outra
+solteiro,ensino médio,,"11,59",34,2,capital
+solteiro,ensino fundamental,,"12,00",41,0,outra
+casado,superior,0,"12,79",26,1,outra
+casado,ensino médio,2,"13,23",32,5,interior
+casado,ensino médio,2,"13,60",35,0,outra
+solteiro,ensino fundamental,,"13,85",46,7,outra
+casado,ensino médio,0,"14,69",29,8,interior
+casado,ensino médio,5,"14,71",40,6,interior
+casado,ensino médio,2,"15,99",35,10,capital
+solteiro,superior,,"16,22",31,5,outra
+casado,ensino médio,1,"16,61",36,4,interior
+casado,superior,3,"17,26",43,7,capital
+solteiro,superior,,"18,75",33,7,capital
+casado,ensino médio,2,"19,40",48,11,capital
+casado,superior,3,"23,30",42,2,interior

@@ -27,7 +27,7 @@ I hope this repository help you understand the most essential statistics topics,
   - Medidas de associação de variáveis qualitativas
   - Análise de interação de variáveis quantitativas
   - Medidas de associação de variáveis quantitativas
-  - ...
+  - Análise e medidas de associação entre variável qualitativa com quantitativa
 
 
 
