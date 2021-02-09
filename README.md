@@ -35,7 +35,14 @@ I hope this repository help you understand the most essential statistics topics,
 
 **Parte 2 - Probabilidades**
 
-- ....
+- [Probabilidades (Com exercícios)](https://github.com/Renatochaz/statistic-fundamentals/blob/master/P2-probabilidades.ipynb) 
+  - Introdução;
+  - Propriedades;
+  - Probabilidade condicional e independência;
+  - Teorema de Bayes;
+  - Probabilidades subjetivas;
+- Variáveis aleatórias discretas
+....
 
 
 
