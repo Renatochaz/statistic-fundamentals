@@ -21,7 +21,7 @@ I hope this repository help you understand the most essential statistics topics,
   - Quantis;
   - Box-plot;
   - Transformações básicas;
-- Análise bidimensional
+- [Análise bidimensional](https://github.com/Renatochaz/statistic-fundamentals/blob/master/P1-analise-bidimensional.ipynb).
   - Importância
   - Análise de interação de variáveis qualitativas
   - Medidas de associação de variáveis qualitativas
@@ -35,7 +35,7 @@ I hope this repository help you understand the most essential statistics topics,
 
 **Parte 2 - Probabilidades**
 
-- [Probabilidades (Com exercícios)](https://github.com/Renatochaz/statistic-fundamentals/blob/master/P2-probabilidades.ipynb) 
+- [Probabilidades (Com exercícios).](https://github.com/Renatochaz/statistic-fundamentals/blob/master/P2-probabilidades.ipynb) 
   - Introdução;
   - Propriedades;
   - Probabilidade condicional e independência;
