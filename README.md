@@ -29,6 +29,7 @@ I hope this repository help you understand the most essential statistics topics,
   - Quantis
   - Box-plot
   - Transformações básicas
+  
 - [Análise bidimensional](https://github.com/Renatochaz/statistic-fundamentals/blob/master/P1-analise-exploratoria/analise-bidimensional.ipynb).
   - Importância
   - Análise de interação de variáveis qualitativas
@@ -46,6 +47,7 @@ I hope this repository help you understand the most essential statistics topics,
   - Probabilidade condicional e independência
   - Teorema de Bayes
   - Probabilidades subjetivas
+  
 - [Variáveis aleatórias discretas](https://github.com/Renatochaz/statistic-fundamentals/blob/master/P2-probabilidades/variaveis-aleatorias-discretas.ipynb).
   - Introdução e conceitos
   - Valor médio, variância e propriedades de variáveis aleatórias
@@ -55,7 +57,10 @@ I hope this repository help you understand the most essential statistics topics,
   - Distribuição Binomial
   - Distribuição Hipergeométrica
   - Distribuição de Poisson
+
+Propriedades distribuições para v.a's discretas
 ![Resumo distribuições para v.a's discretas](media/mods_discretas.jpg)
+
 - [Variáveis aleatórias contínuas](https://github.com/Renatochaz/statistic-fundamentals/blob/master/P2-probabilidades/variaveis-aleatorias-discretas.ipynb).
   - ...
 
