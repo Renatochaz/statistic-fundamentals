@@ -1,5 +1,7 @@
 # Getting started at statistic
 
+**NOTE: THIS IS PROJECT IS NO LONGER MAINTENED**
+
 This repository contains notes, explanations and exercises resolutions for the most fundamental topics in statistics. My aim here is to help those who want to get started in a data science career and are somewhat lost in how to build a statistical base, or those who just want to re enforce their studies. 
 
 The content here is a summary of the most important topics of the following books:
